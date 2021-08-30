@@ -1,0 +1,34 @@
+---
+mine:
+  pool_addr: "mine.x-pool.io:6001"
+  wallet_addr: xch1f0ryxk6qn096hefcwrdwpuph2hm24w69jnzezhkfswk0z2jar7aq5zzpfj
+  worker_name: worker_1
+  scan_interval: 60
+  signatures:
+    - WCIKgwE2k/+FBeToWwXrNWt1yPD40xkO3LAIBjBdUkZGRlZp5N9AhU7qd+lSmNjGkKS8nNWqoqhyZ1Dk3a6X29/XvWgwzQVJ4ghM5p17JJzE8qsBKMm8ME7y8D/+A6dUfJ2vDKaAJIaVEK4SZ/UtyUuGvqQ7vW5B9jw/+xlXjncLUGmD/UbPJMwJohYygCho6RCyEBtuHtn3/vZzfMSoNWy443dxHgzfNMaRCLPE5WmkR/bo+qY6Bv52r0Uil5zJv7uZdKgEoNhzce27fncthRfcBlpAS2M0rbRtrkoKPsuBJ5jQkeJilHg983pdffmI5G5nhCrxDXdaYFGS38aEzA==
+  plot_dirs:
+    - "./"
+  log:
+    v: 1
+    log_file: ~
+    log_size: 50
+    roll_count: 10
+plot:
+  count: 1000
+  k: 32
+  megabytes: 3389
+  buckets: 128
+  stripe_size: 65536
+  no_bitfield: false
+  show_progress: false
+  threads: 8
+  tmp_dir: "./"
+  tmp2_dir: "./"
+  final_dir: "./"
+  fpk: 8376e0e0969badaac03d83ad607ff3f433b7396384b86dbcc81a6c0855916e118316473a30a7ffe134fda53245f7b34b
+  ppk: a8a48d3883d27a1874b78bf2ba43e312a62c0a5284e88c7e01ed3aff73c418c1f98c124699edb5687514fd795f38d81c
+  log:
+    v: 1
+    log_file: ~
+    log_size: 50
+    roll_count: 10
