@@ -7,8 +7,9 @@ chia-cli.exe 为x-pool集成的挖矿，P图软件，检测工具
 文件夹中自带了默认的配置文件，也可删除重新生成配置文件，双击 `cmd.bat`, 输入如下命令：
 
 ```
-chia-cli.exe config -c config.yaml
+chia-cli.exe config -f config.yaml
 ```
+修改配置文件 `config.yaml`
 
 * `wallet_addr`: 收款地址
 * `worker_name`: 矿工名

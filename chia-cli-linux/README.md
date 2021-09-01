@@ -9,8 +9,9 @@ Ubuntu 20.04 或 更高版本
 ## 1.1. 生成配置文件
 
 ```
-./chia-cli config -c config.yaml
+./chia-cli config -f config.yaml
 ```
+修改配置文件 `config.yaml`
 
 * `wallet_addr`: 收款地址
 * `worker_name`: 矿工名
