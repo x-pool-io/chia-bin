@@ -4,6 +4,7 @@ mine:
   wallet_addr: xch1f0ryxk6qn096hefcwrdwpuph2hm24w69jnzezhkfswk0z2jar7aq5zzpfj
   worker_name: worker_1
   scan_interval: 60
+  check_step: 32
   signatures:
     - WCIKgwE2k/+FBeToWwXrNWt1yPD40xkO3LAIBjBdUkZGRlZp5N9AhU7qd+lSmNjGkKS8nNWqoqhyZ1Dk3a6X29/XvWgwzQVJ4ghM5p17JJzE8qsBKMm8ME7y8D/+A6dUfJ2vDKaAJIaVEK4SZ/UtyUuGvqQ7vW5B9jw/+xlXjncLUGmD/UbPJMwJohYygCho6RCyEBtuHtn3/vZzfMSoNWy443dxHgzfNMaRCLPE5WmkR/bo+qY6Bv52r0Uil5zJv7uZdKgEoNhzce27fncthRfcBlpAS2M0rbRtrkoKPsuBJ5jQkeJilHg983pdffmI5G5nhCrxDXdaYFGS38aEzA==
   plot_dirs:
